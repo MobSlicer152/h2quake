@@ -1,0 +1,876 @@
+[
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_aclip.c.obj", "src\\client\\refresh\\soft\\sw_aclip.c"],
+  "file": "src\\client\\refresh\\soft\\sw_aclip.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_alias.c.obj", "src\\client\\refresh\\soft\\sw_alias.c"],
+  "file": "src\\client\\refresh\\soft\\sw_alias.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_bsp.c.obj", "src\\client\\refresh\\soft\\sw_bsp.c"],
+  "file": "src\\client\\refresh\\soft\\sw_bsp.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_draw.c.obj", "src\\client\\refresh\\soft\\sw_draw.c"],
+  "file": "src\\client\\refresh\\soft\\sw_draw.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_edge.c.obj", "src\\client\\refresh\\soft\\sw_edge.c"],
+  "file": "src\\client\\refresh\\soft\\sw_edge.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_image.c.obj", "src\\client\\refresh\\soft\\sw_image.c"],
+  "file": "src\\client\\refresh\\soft\\sw_image.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_light.c.obj", "src\\client\\refresh\\soft\\sw_light.c"],
+  "file": "src\\client\\refresh\\soft\\sw_light.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_main.c.obj", "src\\client\\refresh\\soft\\sw_main.c"],
+  "file": "src\\client\\refresh\\soft\\sw_main.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_misc.c.obj", "src\\client\\refresh\\soft\\sw_misc.c"],
+  "file": "src\\client\\refresh\\soft\\sw_misc.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_model.c.obj", "src\\client\\refresh\\soft\\sw_model.c"],
+  "file": "src\\client\\refresh\\soft\\sw_model.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_part.c.obj", "src\\client\\refresh\\soft\\sw_part.c"],
+  "file": "src\\client\\refresh\\soft\\sw_part.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_poly.c.obj", "src\\client\\refresh\\soft\\sw_poly.c"],
+  "file": "src\\client\\refresh\\soft\\sw_poly.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_polyset.c.obj", "src\\client\\refresh\\soft\\sw_polyset.c"],
+  "file": "src\\client\\refresh\\soft\\sw_polyset.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_rast.c.obj", "src\\client\\refresh\\soft\\sw_rast.c"],
+  "file": "src\\client\\refresh\\soft\\sw_rast.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_scan.c.obj", "src\\client\\refresh\\soft\\sw_scan.c"],
+  "file": "src\\client\\refresh\\soft\\sw_scan.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_sprite.c.obj", "src\\client\\refresh\\soft\\sw_sprite.c"],
+  "file": "src\\client\\refresh\\soft\\sw_sprite.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\soft\\sw_surf.c.obj", "src\\client\\refresh\\soft\\sw_surf.c"],
+  "file": "src\\client\\refresh\\soft\\sw_surf.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\files\\surf.c.obj", "src\\client\\refresh\\files\\surf.c"],
+  "file": "src\\client\\refresh\\files\\surf.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\files\\models.c.obj", "src\\client\\refresh\\files\\models.c"],
+  "file": "src\\client\\refresh\\files\\models.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\files\\pcx.c.obj", "src\\client\\refresh\\files\\pcx.c"],
+  "file": "src\\client\\refresh\\files\\pcx.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\files\\stb.c.obj", "src\\client\\refresh\\files\\stb.c"],
+  "file": "src\\client\\refresh\\files\\stb.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\files\\wal.c.obj", "src\\client\\refresh\\files\\wal.c"],
+  "file": "src\\client\\refresh\\files\\wal.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.ref_soft.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\ref_soft\\windows\\x64\\debug\\src\\client\\refresh\\files\\pvs.c.obj", "src\\client\\refresh\\files\\pvs.c"],
+  "file": "src\\client\\refresh\\files\\pvs.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\backends\\generic\\misc.c.obj", "src\\backends\\generic\\misc.c"],
+  "file": "src\\backends\\generic\\misc.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\argproc.c.obj", "src\\common\\argproc.c"],
+  "file": "src\\common\\argproc.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\clientserver.c.obj", "src\\common\\clientserver.c"],
+  "file": "src\\common\\clientserver.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\collision.c.obj", "src\\common\\collision.c"],
+  "file": "src\\common\\collision.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\crc.c.obj", "src\\common\\crc.c"],
+  "file": "src\\common\\crc.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\cmdparser.c.obj", "src\\common\\cmdparser.c"],
+  "file": "src\\common\\cmdparser.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\cvar.c.obj", "src\\common\\cvar.c"],
+  "file": "src\\common\\cvar.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\filesystem.c.obj", "src\\common\\filesystem.c"],
+  "file": "src\\common\\filesystem.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\glob.c.obj", "src\\common\\glob.c"],
+  "file": "src\\common\\glob.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\md4.c.obj", "src\\common\\md4.c"],
+  "file": "src\\common\\md4.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\movemsg.c.obj", "src\\common\\movemsg.c"],
+  "file": "src\\common\\movemsg.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\frame.c.obj", "src\\common\\frame.c"],
+  "file": "src\\common\\frame.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\netchan.c.obj", "src\\common\\netchan.c"],
+  "file": "src\\common\\netchan.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\pmove.c.obj", "src\\common\\pmove.c"],
+  "file": "src\\common\\pmove.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\szone.c.obj", "src\\common\\szone.c"],
+  "file": "src\\common\\szone.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\zone.c.obj", "src\\common\\zone.c"],
+  "file": "src\\common\\zone.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\shared\\flash.c.obj", "src\\common\\shared\\flash.c"],
+  "file": "src\\common\\shared\\flash.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\shared\\rand.c.obj", "src\\common\\shared\\rand.c"],
+  "file": "src\\common\\shared\\rand.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\shared\\shared.c.obj", "src\\common\\shared\\shared.c"],
+  "file": "src\\common\\shared\\shared.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\unzip\\ioapi.c.obj", "src\\common\\unzip\\ioapi.c"],
+  "file": "src\\common\\unzip\\ioapi.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\unzip\\unzip.c.obj", "src\\common\\unzip\\unzip.c"],
+  "file": "src\\common\\unzip\\unzip.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\unzip\\miniz\\miniz.c.obj", "src\\common\\unzip\\miniz\\miniz.c"],
+  "file": "src\\common\\unzip\\miniz\\miniz.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\unzip\\miniz\\miniz_tdef.c.obj", "src\\common\\unzip\\miniz\\miniz_tdef.c"],
+  "file": "src\\common\\unzip\\miniz\\miniz_tdef.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\common\\unzip\\miniz\\miniz_tinfl.c.obj", "src\\common\\unzip\\miniz\\miniz_tinfl.c"],
+  "file": "src\\common\\unzip\\miniz\\miniz_tinfl.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\backends\\windows\\main.c.obj", "src\\backends\\windows\\main.c"],
+  "file": "src\\backends\\windows\\main.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\backends\\windows\\network.c.obj", "src\\backends\\windows\\network.c"],
+  "file": "src\\backends\\windows\\network.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\backends\\windows\\system.c.obj", "src\\backends\\windows\\system.c"],
+  "file": "src\\backends\\windows\\system.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common_ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common_ded\\windows\\x64\\debug\\src\\backends\\windows\\shared\\hunk.c.obj", "src\\backends\\windows\\shared\\hunk.c"],
+  "file": "src\\backends\\windows\\shared\\hunk.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_cin.c.obj", "src\\client\\cl_cin.c"],
+  "file": "src\\client\\cl_cin.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_console.c.obj", "src\\client\\cl_console.c"],
+  "file": "src\\client\\cl_console.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_download.c.obj", "src\\client\\cl_download.c"],
+  "file": "src\\client\\cl_download.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_effects.c.obj", "src\\client\\cl_effects.c"],
+  "file": "src\\client\\cl_effects.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_entities.c.obj", "src\\client\\cl_entities.c"],
+  "file": "src\\client\\cl_entities.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_input.c.obj", "src\\client\\cl_input.c"],
+  "file": "src\\client\\cl_input.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_inventory.c.obj", "src\\client\\cl_inventory.c"],
+  "file": "src\\client\\cl_inventory.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_keyboard.c.obj", "src\\client\\cl_keyboard.c"],
+  "file": "src\\client\\cl_keyboard.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_lights.c.obj", "src\\client\\cl_lights.c"],
+  "file": "src\\client\\cl_lights.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_main.c.obj", "src\\client\\cl_main.c"],
+  "file": "src\\client\\cl_main.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_network.c.obj", "src\\client\\cl_network.c"],
+  "file": "src\\client\\cl_network.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_parse.c.obj", "src\\client\\cl_parse.c"],
+  "file": "src\\client\\cl_parse.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_particles.c.obj", "src\\client\\cl_particles.c"],
+  "file": "src\\client\\cl_particles.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_prediction.c.obj", "src\\client\\cl_prediction.c"],
+  "file": "src\\client\\cl_prediction.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_screen.c.obj", "src\\client\\cl_screen.c"],
+  "file": "src\\client\\cl_screen.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_tempentities.c.obj", "src\\client\\cl_tempentities.c"],
+  "file": "src\\client\\cl_tempentities.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\cl_view.c.obj", "src\\client\\cl_view.c"],
+  "file": "src\\client\\cl_view.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\curl\\download.c.obj", "src\\client\\curl\\download.c"],
+  "file": "src\\client\\curl\\download.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\curl\\qcurl.c.obj", "src\\client\\curl\\qcurl.c"],
+  "file": "src\\client\\curl\\qcurl.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\input\\sdl.c.obj", "src\\client\\input\\sdl.c"],
+  "file": "src\\client\\input\\sdl.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\menu\\menu.c.obj", "src\\client\\menu\\menu.c"],
+  "file": "src\\client\\menu\\menu.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\menu\\qmenu.c.obj", "src\\client\\menu\\qmenu.c"],
+  "file": "src\\client\\menu\\qmenu.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\menu\\videomenu.c.obj", "src\\client\\menu\\videomenu.c"],
+  "file": "src\\client\\menu\\videomenu.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\sound\\sdl.c.obj", "src\\client\\sound\\sdl.c"],
+  "file": "src\\client\\sound\\sdl.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\sound\\ogg.c.obj", "src\\client\\sound\\ogg.c"],
+  "file": "src\\client\\sound\\ogg.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\sound\\openal.c.obj", "src\\client\\sound\\openal.c"],
+  "file": "src\\client\\sound\\openal.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\sound\\qal.c.obj", "src\\client\\sound\\qal.c"],
+  "file": "src\\client\\sound\\qal.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\sound\\sound.c.obj", "src\\client\\sound\\sound.c"],
+  "file": "src\\client\\sound\\sound.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\sound\\wave.c.obj", "src\\client\\sound\\wave.c"],
+  "file": "src\\client\\sound\\wave.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\vid\\glimp_sdl.c.obj", "src\\client\\vid\\glimp_sdl.c"],
+  "file": "src\\client\\vid\\glimp_sdl.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\client\\vid\\vid.c.obj", "src\\client\\vid\\vid.c"],
+  "file": "src\\client\\vid\\vid.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_cmd.c.obj", "src\\server\\sv_cmd.c"],
+  "file": "src\\server\\sv_cmd.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_conless.c.obj", "src\\server\\sv_conless.c"],
+  "file": "src\\server\\sv_conless.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_entities.c.obj", "src\\server\\sv_entities.c"],
+  "file": "src\\server\\sv_entities.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_game.c.obj", "src\\server\\sv_game.c"],
+  "file": "src\\server\\sv_game.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_init.c.obj", "src\\server\\sv_init.c"],
+  "file": "src\\server\\sv_init.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_main.c.obj", "src\\server\\sv_main.c"],
+  "file": "src\\server\\sv_main.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_save.c.obj", "src\\server\\sv_save.c"],
+  "file": "src\\server\\sv_save.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_send.c.obj", "src\\server\\sv_send.c"],
+  "file": "src\\server\\sv_send.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_user.c.obj", "src\\server\\sv_user.c"],
+  "file": "src\\server\\sv_user.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.quake2.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/DAL_LIBTYPE_STATIC", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\o\\openal-soft\\1.23.1\\a7a485379cbc48f982aa38269514fedd\\include", "/Fobuild\\.objs\\quake2\\windows\\x64\\debug\\src\\server\\sv_world.c.obj", "src\\server\\sv_world.c"],
+  "file": "src\\server\\sv_world.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_ai.c.obj", "src\\game\\g_ai.c"],
+  "file": "src\\game\\g_ai.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_chase.c.obj", "src\\game\\g_chase.c"],
+  "file": "src\\game\\g_chase.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_cmds.c.obj", "src\\game\\g_cmds.c"],
+  "file": "src\\game\\g_cmds.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_combat.c.obj", "src\\game\\g_combat.c"],
+  "file": "src\\game\\g_combat.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_func.c.obj", "src\\game\\g_func.c"],
+  "file": "src\\game\\g_func.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_items.c.obj", "src\\game\\g_items.c"],
+  "file": "src\\game\\g_items.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_main.c.obj", "src\\game\\g_main.c"],
+  "file": "src\\game\\g_main.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_misc.c.obj", "src\\game\\g_misc.c"],
+  "file": "src\\game\\g_misc.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_monster.c.obj", "src\\game\\g_monster.c"],
+  "file": "src\\game\\g_monster.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_phys.c.obj", "src\\game\\g_phys.c"],
+  "file": "src\\game\\g_phys.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_spawn.c.obj", "src\\game\\g_spawn.c"],
+  "file": "src\\game\\g_spawn.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_svcmds.c.obj", "src\\game\\g_svcmds.c"],
+  "file": "src\\game\\g_svcmds.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_target.c.obj", "src\\game\\g_target.c"],
+  "file": "src\\game\\g_target.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_trigger.c.obj", "src\\game\\g_trigger.c"],
+  "file": "src\\game\\g_trigger.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_turret.c.obj", "src\\game\\g_turret.c"],
+  "file": "src\\game\\g_turret.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_utils.c.obj", "src\\game\\g_utils.c"],
+  "file": "src\\game\\g_utils.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\g_weapon.c.obj", "src\\game\\g_weapon.c"],
+  "file": "src\\game\\g_weapon.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\berserker\\berserker.c.obj", "src\\game\\monster\\berserker\\berserker.c"],
+  "file": "src\\game\\monster\\berserker\\berserker.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\boss2\\boss2.c.obj", "src\\game\\monster\\boss2\\boss2.c"],
+  "file": "src\\game\\monster\\boss2\\boss2.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\boss3\\boss3.c.obj", "src\\game\\monster\\boss3\\boss3.c"],
+  "file": "src\\game\\monster\\boss3\\boss3.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\boss3\\boss31.c.obj", "src\\game\\monster\\boss3\\boss31.c"],
+  "file": "src\\game\\monster\\boss3\\boss31.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\boss3\\boss32.c.obj", "src\\game\\monster\\boss3\\boss32.c"],
+  "file": "src\\game\\monster\\boss3\\boss32.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\brain\\brain.c.obj", "src\\game\\monster\\brain\\brain.c"],
+  "file": "src\\game\\monster\\brain\\brain.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\chick\\chick.c.obj", "src\\game\\monster\\chick\\chick.c"],
+  "file": "src\\game\\monster\\chick\\chick.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\flipper\\flipper.c.obj", "src\\game\\monster\\flipper\\flipper.c"],
+  "file": "src\\game\\monster\\flipper\\flipper.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\float\\float.c.obj", "src\\game\\monster\\float\\float.c"],
+  "file": "src\\game\\monster\\float\\float.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\flyer\\flyer.c.obj", "src\\game\\monster\\flyer\\flyer.c"],
+  "file": "src\\game\\monster\\flyer\\flyer.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\gladiator\\gladiator.c.obj", "src\\game\\monster\\gladiator\\gladiator.c"],
+  "file": "src\\game\\monster\\gladiator\\gladiator.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\gunner\\gunner.c.obj", "src\\game\\monster\\gunner\\gunner.c"],
+  "file": "src\\game\\monster\\gunner\\gunner.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\hover\\hover.c.obj", "src\\game\\monster\\hover\\hover.c"],
+  "file": "src\\game\\monster\\hover\\hover.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\infantry\\infantry.c.obj", "src\\game\\monster\\infantry\\infantry.c"],
+  "file": "src\\game\\monster\\infantry\\infantry.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\insane\\insane.c.obj", "src\\game\\monster\\insane\\insane.c"],
+  "file": "src\\game\\monster\\insane\\insane.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\medic\\medic.c.obj", "src\\game\\monster\\medic\\medic.c"],
+  "file": "src\\game\\monster\\medic\\medic.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\misc\\move.c.obj", "src\\game\\monster\\misc\\move.c"],
+  "file": "src\\game\\monster\\misc\\move.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\mutant\\mutant.c.obj", "src\\game\\monster\\mutant\\mutant.c"],
+  "file": "src\\game\\monster\\mutant\\mutant.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\parasite\\parasite.c.obj", "src\\game\\monster\\parasite\\parasite.c"],
+  "file": "src\\game\\monster\\parasite\\parasite.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\soldier\\soldier.c.obj", "src\\game\\monster\\soldier\\soldier.c"],
+  "file": "src\\game\\monster\\soldier\\soldier.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\supertank\\supertank.c.obj", "src\\game\\monster\\supertank\\supertank.c"],
+  "file": "src\\game\\monster\\supertank\\supertank.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\monster\\tank\\tank.c.obj", "src\\game\\monster\\tank\\tank.c"],
+  "file": "src\\game\\monster\\tank\\tank.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\player\\client.c.obj", "src\\game\\player\\client.c"],
+  "file": "src\\game\\player\\client.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\player\\hud.c.obj", "src\\game\\player\\hud.c"],
+  "file": "src\\game\\player\\hud.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\player\\trail.c.obj", "src\\game\\player\\trail.c"],
+  "file": "src\\game\\player\\trail.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\player\\view.c.obj", "src\\game\\player\\view.c"],
+  "file": "src\\game\\player\\view.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\player\\weapon.c.obj", "src\\game\\player\\weapon.c"],
+  "file": "src\\game\\player\\weapon.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\baseq2\\compile.game.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\baseq2\\windows\\x64\\debug\\src\\game\\savegame\\savegame.c.obj", "src\\game\\savegame\\savegame.c"],
+  "file": "src\\game\\savegame\\savegame.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\backends\\generic\\misc.c.obj", "src\\backends\\generic\\misc.c"],
+  "file": "src\\backends\\generic\\misc.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\argproc.c.obj", "src\\common\\argproc.c"],
+  "file": "src\\common\\argproc.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\clientserver.c.obj", "src\\common\\clientserver.c"],
+  "file": "src\\common\\clientserver.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\collision.c.obj", "src\\common\\collision.c"],
+  "file": "src\\common\\collision.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\crc.c.obj", "src\\common\\crc.c"],
+  "file": "src\\common\\crc.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\cmdparser.c.obj", "src\\common\\cmdparser.c"],
+  "file": "src\\common\\cmdparser.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\cvar.c.obj", "src\\common\\cvar.c"],
+  "file": "src\\common\\cvar.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\filesystem.c.obj", "src\\common\\filesystem.c"],
+  "file": "src\\common\\filesystem.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\glob.c.obj", "src\\common\\glob.c"],
+  "file": "src\\common\\glob.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\md4.c.obj", "src\\common\\md4.c"],
+  "file": "src\\common\\md4.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\movemsg.c.obj", "src\\common\\movemsg.c"],
+  "file": "src\\common\\movemsg.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\frame.c.obj", "src\\common\\frame.c"],
+  "file": "src\\common\\frame.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\netchan.c.obj", "src\\common\\netchan.c"],
+  "file": "src\\common\\netchan.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\pmove.c.obj", "src\\common\\pmove.c"],
+  "file": "src\\common\\pmove.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\szone.c.obj", "src\\common\\szone.c"],
+  "file": "src\\common\\szone.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\zone.c.obj", "src\\common\\zone.c"],
+  "file": "src\\common\\zone.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\shared\\flash.c.obj", "src\\common\\shared\\flash.c"],
+  "file": "src\\common\\shared\\flash.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\shared\\rand.c.obj", "src\\common\\shared\\rand.c"],
+  "file": "src\\common\\shared\\rand.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\shared\\shared.c.obj", "src\\common\\shared\\shared.c"],
+  "file": "src\\common\\shared\\shared.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\unzip\\ioapi.c.obj", "src\\common\\unzip\\ioapi.c"],
+  "file": "src\\common\\unzip\\ioapi.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\unzip\\unzip.c.obj", "src\\common\\unzip\\unzip.c"],
+  "file": "src\\common\\unzip\\unzip.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\unzip\\miniz\\miniz.c.obj", "src\\common\\unzip\\miniz\\miniz.c"],
+  "file": "src\\common\\unzip\\miniz\\miniz.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\unzip\\miniz\\miniz_tdef.c.obj", "src\\common\\unzip\\miniz\\miniz_tdef.c"],
+  "file": "src\\common\\unzip\\miniz\\miniz_tdef.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\common\\unzip\\miniz\\miniz_tinfl.c.obj", "src\\common\\unzip\\miniz\\miniz_tinfl.c"],
+  "file": "src\\common\\unzip\\miniz\\miniz_tinfl.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\backends\\windows\\main.c.obj", "src\\backends\\windows\\main.c"],
+  "file": "src\\backends\\windows\\main.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\backends\\windows\\network.c.obj", "src\\backends\\windows\\network.c"],
+  "file": "src\\backends\\windows\\network.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\backends\\windows\\system.c.obj", "src\\backends\\windows\\system.c"],
+  "file": "src\\backends\\windows\\system.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\common.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libsdl\\2.30.0\\d12ea3c9a7b4444a9155badfe46a5e53\\include\\SDL2", "/Fobuild\\.objs\\common\\windows\\x64\\debug\\src\\backends\\windows\\shared\\hunk.c.obj", "src\\backends\\windows\\shared\\hunk.c"],
+  "file": "src\\backends\\windows\\shared\\hunk.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_cmd.c.obj", "src\\server\\sv_cmd.c"],
+  "file": "src\\server\\sv_cmd.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_conless.c.obj", "src\\server\\sv_conless.c"],
+  "file": "src\\server\\sv_conless.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_entities.c.obj", "src\\server\\sv_entities.c"],
+  "file": "src\\server\\sv_entities.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_game.c.obj", "src\\server\\sv_game.c"],
+  "file": "src\\server\\sv_game.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_init.c.obj", "src\\server\\sv_init.c"],
+  "file": "src\\server\\sv_init.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_main.c.obj", "src\\server\\sv_main.c"],
+  "file": "src\\server\\sv_main.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_save.c.obj", "src\\server\\sv_save.c"],
+  "file": "src\\server\\sv_save.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_send.c.obj", "src\\server\\sv_send.c"],
+  "file": "src\\server\\sv_send.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_user.c.obj", "src\\server\\sv_user.c"],
+  "file": "src\\server\\sv_user.c"
+},
+{
+  "directory": "E:\\mobslicer152\\Desktop\\h2quake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33521\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.q2ded.pdb", "/Od", "/DNOUNCRYPT", "/DUSE_CURL", "/DUSE_OPENAL", "/DYQ2OSTYPE=\"Windows\"", "/DDEFAULT_OPENAL_DRIVER=\"openal32.dll\"", "/DYQ2ARCH=\"x86_64\"", "/DDEDICATED_ONLY", "/DCURL_STATICLIB", "/IC:\\Users\\bramb\\AppData\\Local\\.xmake\\packages\\l\\libcurl\\8.5.0\\7a2b4579e2e8404d8572279d6abbab0b\\include", "/Fobuild\\.objs\\q2ded\\windows\\x64\\debug\\src\\server\\sv_world.c.obj", "src\\server\\sv_world.c"],
+  "file": "src\\server\\sv_world.c"
+}]
