@@ -637,7 +637,7 @@ Con_DrawConsole(float frac)
 	SCR_AddDirtyPoint(0, 0);
 	SCR_AddDirtyPoint(viddef.width - 1, lines - 1);
 
-	Com_sprintf(version, sizeof(version), "Yamagi Quake II v%s", YQ2VERSION);
+	Com_sprintf(version, sizeof(version), "Halo 2 Quake v%s", YQ2VERSION);
 
 	verLen = strlen(version);
 

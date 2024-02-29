@@ -19,9 +19,11 @@ if is_plat("windows") then
     add_defines("YQ2OSTYPE=\"Windows\"", "DEFAULT_OPENAL_DRIVER=\"openal32.dll\"")
 elseif is_plat("macosx") then
     add_defines("YQ2OSTYPE=\"Darwin\"", "DEFAULT_OPENAL_DRIVER=\"libopenal.dylib\"")
+    add_cxflags("-fPIC")
 elseif is_plat("linux") then
     add_defines("YQ2OSTYPE=\"Linux\"", "DEFAULT_OPENAL_DRIVER=\"libopenal.so.1\"")
     add_links("m", "dl")
+    add_cxflags("-fPIC")
 end
 
 if is_arch("x64", "x86_64", "amd64") then
@@ -209,7 +211,7 @@ target("quake2")
     end
 
     after_build(function (target)
-        os.cp(path.absolute("baseq2"), target:targetdir())
+        os.cp(path.absolute("baseh2q"), target:targetdir())
     end)
 
 target("q2ded")
@@ -270,6 +272,8 @@ target("ref_gl3")
         "src/client/refresh/files/pvs.c"
     )
 
+    set_prefixname("")
+
     add_includedirs("src/client/refresh/gl3/glad/include")
 
     add_deps("common")
@@ -310,11 +314,13 @@ target("ref_soft")
         "src/client/refresh/files/pvs.c"
     )
 
+    set_prefixname("")
+
     add_deps("common")
 
     add_packages("libsdl")
 
-target("baseq2")
+target("baseh2q")
     set_kind("shared")
 
     add_headerfiles("src/game/**.h")
@@ -366,6 +372,8 @@ target("baseq2")
         "src/game/savegame/savegame.c"
     )
 
+    set_prefixname("")
+
     add_deps("common")
 
     add_packages("libcurl")
@@ -377,8 +385,8 @@ target("baseq2")
         else
             extension = ".so"
         end
-        if not os.exists(path.join(target:targetdir(), "baseq2")) then
-            os.mkdir(path.join(target:targetdir(), "baseq2"))
+        if not os.exists(path.join(target:targetdir(), "baseh2q")) then
+            os.mkdir(path.join(target:targetdir(), "baseh2q"))
         end
-        os.cp(target:targetfile(), path.join(target:targetdir(), "baseq2", "game" .. extension))
+        os.cp(target:targetfile(), path.join(target:targetdir(), "baseh2q", "game" .. extension))
     end)

@@ -36,9 +36,9 @@
 #include "header/DG_dynarr.h"
 
 #ifdef YQ2_GL3_GLES3
-  #define REF_VERSION "Yamagi Quake II OpenGL ES3 Refresher"
+  #define REF_VERSION "Halo 2 Quake OpenGL ES3 Refresher"
 #else
-  #define REF_VERSION "Yamagi Quake II OpenGL3 Refresher"
+  #define REF_VERSION "Halo 2 Quake OpenGL3 Refresher"
 #endif
 
 refimport_t ri;
