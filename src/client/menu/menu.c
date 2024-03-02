@@ -2652,6 +2652,9 @@ static const char *idcredits[] = {
 	"Denis Pauk",
 	"Bjorn Alfredsson",
 	"Jaime Moreira",
+    "",
+    "+HALO 2 QUAKE BY",
+    "Elliot McNeil",
 	"",
 	"Quake II(tm) (C)1997 Id Software, Inc.",
 	"All Rights Reserved.  Distributed by",
@@ -3095,7 +3098,7 @@ ModsListFunc(void *unused)
 {
     if (strcmp(BASEDIRNAME, modnames[s_mods_list.curvalue]) == 0)
     {
-        strcpy(mods_statusbar, "Quake II");
+        strcpy(mods_statusbar, "Halo 2 Quake");
     }
     else if (strcmp("ctf", modnames[s_mods_list.curvalue]) == 0)
     {

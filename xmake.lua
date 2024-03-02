@@ -202,6 +202,7 @@ target("quake2")
     set_default(true)
 
     add_deps("common")
+    add_deps("baseh2q", {inherit = false})
 
     add_packages("libcurl", "libsdl", "openal-soft")
 
@@ -234,6 +235,7 @@ target("q2ded")
     add_defines("DEDICATED_ONLY")
 
     add_deps("common_ded")
+    add_deps("baseh2q", {inherit = false})
 
     add_packages("libcurl")
 
